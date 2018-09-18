@@ -1,2 +1,2 @@
 # mraid-browser
-Mraid API for browser usage.
+Mraid API for browser.
